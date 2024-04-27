@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: currency.sql
+      relativeToChangelogFile: true

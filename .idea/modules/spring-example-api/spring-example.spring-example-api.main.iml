@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../../spring-example-api/src/main" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/../../../spring-example-api/src/main/kotlin" isTestSource="false" />
+    </content>
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="0e7867f8-0de8-48be-bd40-debd5a94a21a" />
+  </component>
+</module>

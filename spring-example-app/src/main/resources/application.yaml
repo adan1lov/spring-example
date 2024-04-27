@@ -1,0 +1,13 @@
+server:
+  port: 8081
+spring:
+  cloud:
+    openfeign:
+      client:
+        config:
+          currenciesClient  :
+            url: https://www.cbr-xml-daily.ru/latest.js
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: postgres
